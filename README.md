@@ -2,6 +2,8 @@
 
 Sistem Antrian Multi-Loket untuk Penerimaan Siswa Baru (PSB). Aplikasi ini dirancang untuk mengelola antrian secara efisien dengan beberapa loket dan dapat mengirimkan notifikasi WhatsApp kepada pendaftar.
 
+!Screenshoot(https://blog.classy.id/upload/gambar_berita/4fc0afc1af49653b643495882c00a5bf_20250522221104.png)
+
 ## Fitur Utama
 
 - **Multi Loket**: Menangani antrian dengan beberapa loket yang memanggil nomor antrian secara terurut.
