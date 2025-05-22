@@ -22,8 +22,9 @@ Untuk menjalankan sistem ini di server lokal atau server produksi, ikuti langkah
 ### Langkah Instalasi
 
 1. **Clone Repository**:
+```
 
-git clone [https://github.com/your-username/antrian-sistem-multi-loket.git](https://github.com/your-username/antrian-sistem-multi-loket.git)
+git clone [https://github.com/classyid/loket-antrian-psb.git](https://github.com/classyid/loket-antrian-psb.git)
 cd antrian-sistem-multi-loket
 
 ````
